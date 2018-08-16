@@ -1,0 +1,5 @@
+mongoDbHosted@ : https://mlab.com
+mongoDbName : productstutorial
+mongoDbUser : root
+mongoDbPassword : root@123
+
