@@ -1,5 +1,18 @@
+Basic Node : https://www.w3schools.com/nodejs/nodejs_mongodb_find.asp
+Basic React : https://www.tutorialspoint.com/reactjs/reactjs_quick_guide.htm
+Crud tutorials : https://codeburst.io/writing-a-crud-app-with-node-js-and-mongodb-e0827cbbdafb
+Online MongoDb : https://mlab.com/databases/productstutorial/collections/products
+
+Urls
+http://localhost:1234/products/test
+http://localhost:1234/products/create
+http://localhost:1234/products/5b7914aab8d0b719955143d5
+http://localhost:1234/products/5b79146db8d0b719955143d4/update
+http://localhost:1234/products/5b79146db8d0b719955143d4/delete
+
+
 mongoDbHosted@ : https://mlab.com
 mongoDbName : productstutorial
 mongoDbUser : root
-mongoDbPassword : root@123
+mongoDbPassword : root_123
 
